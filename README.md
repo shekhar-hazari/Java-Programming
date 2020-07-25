@@ -8,7 +8,7 @@ TASKS
 
 The constructor of the MyBlock class takes 2 parameters: the number of rows of the block, the number of columns of the block. In the constructor of this class, write code to initialize the block with the size of row and column. Initialize each value of the array block with the value 0, which means that block is unused. Initialize the value of vacant to true.
 
-Write a method of the MyBlock class called displayBlock() that prints the block as a two dimensional array. Give a space between each element during printing, and use a line for each row. An example of the output of displayBlock()is shown below, for a vacant block of 3 x 4 (row x column). 0 0 0 0 0 0 0 0 0 0 0 0
+Write a method of the MyBlock class called displayBlock() that prints the block as a two dimensional array. Give a space between each element during printing, and use a line for each row.
 
 Write a method of the MyBlock class called clearBlock()that sets the value of each element of the array ‘block’ to zero (0). Set the value of vacant to true.
 
