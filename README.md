@@ -1,5 +1,5 @@
 # My-Block
-In this repositories, I will upload an assignment I did in Java programming language during Semester 1 of my Masters in Data Science.
+In this repository, I will upload an assignment I did in Java programming language during Semester 1 of my Masters in Data Science.
 Here is a brief description of the assignment:
 
 MyBlock is a simple tool which can help one design a block of land. Your task is to write a Java program that implements the design functionality, checks if all the rules are followed, displays the block.
